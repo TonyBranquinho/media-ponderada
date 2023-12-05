@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\media ponderada\media ponderada\bin\Debug\media ponderada.exe.config
+C:\temp\ws-vs2019\media ponderada\media ponderada\bin\Debug\media ponderada.exe
+C:\temp\ws-vs2019\media ponderada\media ponderada\bin\Debug\media ponderada.pdb
+C:\temp\ws-vs2019\media ponderada\media ponderada\obj\Debug\media ponderada.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\media ponderada\media ponderada\obj\Debug\media ponderada.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\media ponderada\media ponderada\obj\Debug\media ponderada.exe
+C:\temp\ws-vs2019\media ponderada\media ponderada\obj\Debug\media ponderada.pdb
